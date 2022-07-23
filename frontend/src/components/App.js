@@ -13,9 +13,10 @@ export default class App extends Component {
     render() {
         return (
             <div>
-                <HomePage />
+                text
+                {/* <HomePage />
                 <RoomJoinPage />
-                <CreateRoomPage />
+                <CreateRoomPage /> */}
             </div>
         );
     }
